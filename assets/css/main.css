@@ -83,7 +83,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #f2f5f3;
+		background: #eee;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -100,7 +100,7 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'Open Sans', sans-serif;
 		font-weight: 400;
-		color: #6b7770;
+		color: #ed4c5f;
 		font-size: 13pt;
 		line-height: 2em;
 	}
@@ -109,7 +109,7 @@ input, select, textarea {
 		font-family: 'Open Sans Condensed', sans-serif;
 		font-weight: 700;
 		text-transform: uppercase;
-		color: #6b7770;
+		color: #ed4c5f;
 		margin: 0 0 0.5em 0;
 		line-height: 1.3;
 	}
@@ -145,7 +145,7 @@ input, select, textarea {
 	}
 
 	a {
-		color: #006376;
+		color: blue;
 		text-decoration: underline;
 	}
 
@@ -155,7 +155,7 @@ input, select, textarea {
 
 	b, strong {
 		font-weight: 700;
-		color: #6b7770;
+		color: #ed4c5f;
 	}
 
 	i, em {
@@ -1792,7 +1792,7 @@ input, select, textarea {
 		font-weight: 700;
 		text-transform: uppercase;
 		text-decoration: none;
-		background: #b1ddab;
+		background: #ed4c5f;
 		color: #fff;
 		border: 0;
 		line-height: 1em;
@@ -2098,7 +2098,7 @@ input, select, textarea {
 		font-family: 'Open Sans Condensed', sans-serif;
 		font-weight: 700;
 		text-transform: uppercase;
-		color: #6b7770;
+		color: #ed4c5f;
 	}
 
 	form input[type="text"],
@@ -2183,7 +2183,7 @@ input, select, textarea {
 				font-family: 'Open Sans Condensed', sans-serif;
 				font-weight: 700;
 				text-transform: uppercase;
-				color: #6b7770;
+				color: #ed4c5f;
 			}
 
 			table.default thead {
@@ -2389,7 +2389,7 @@ input, select, textarea {
 				position: relative;
 				display: block;
 				text-decoration: none;
-				color: #6b7770;
+				color: #ed4c5f;
 				top: -6px;
 				padding: 6px 1.5em 0.25em 1.5em;
 				border-bottom-left-radius: 6px;
@@ -2418,7 +2418,7 @@ input, select, textarea {
 
 	.dropotron {
 		list-style: none;
-		background: #6B7770;
+		background: #ed4c5f;
 		color: #fff;
 		border-radius: 6px;
 		line-height: 2.75em;
@@ -2469,7 +2469,7 @@ input, select, textarea {
 				left: 50%;
 				margin-left: -1em;
 				top: -0.65em;
-				border-bottom: solid 1em #6B7770;
+				border-bottom: solid 1em #ed4c5f;
 				border-left: solid 1em transparent;
 				border-right: solid 1em transparent;
 			}
@@ -2488,7 +2488,7 @@ input, select, textarea {
 
 		#banner .content {
 			position: relative;
-			background-color: rgba(21, 28, 23, 0.85);
+			background-color: rgba(222, 99, 77, 0.85);
 			background-image: url("images/overlay.png"), url("images/highlight.png");
 			background-position: top left, center center;
 			background-size: auto, 100% 250%;
